@@ -22,7 +22,7 @@
   },
   "preferGlobal": true,
   "bin": {
-     "node-gyp": "./bin/node-gyp.js",
+     "node-gyp": "./bin/node-gyp.js"
   },
   "main": "./lib/node-gyp.js",
   "dependencies": {
